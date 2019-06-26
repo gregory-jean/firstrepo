@@ -1,0 +1,2 @@
+Step 1 - Learn git
+Step 2 - Get better with Github
